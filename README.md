@@ -85,6 +85,9 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"  
 />
 
+<br/>
+<br/>
+
 ### 💻 Backend
 - Java
 - Spring Boot
