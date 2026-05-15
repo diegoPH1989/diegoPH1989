@@ -23,7 +23,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="JAVA" 
     title="JAVA"
     width="30px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 <img 
@@ -39,7 +39,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="CSS" 
     title="CSS"
     width="50px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -47,7 +47,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="JavaScript" 
     title="JavaScript"
     width="50px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -55,7 +55,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="React"
     title="React" 
     width="50px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -63,7 +63,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="Git" 
     title="Git"
     width="50px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -71,7 +71,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="MY SQL" 
     title="MY SQL"
     width="50px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
@@ -79,12 +79,14 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="SPRING BOOT" 
     title="SPRING BOOT"
     width="50px" 
-    style="padding-right: 20px;" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"  
 />
 
 <br/>
 <br/>
+
+---
 
 ### 💻 Backend
 - Java
