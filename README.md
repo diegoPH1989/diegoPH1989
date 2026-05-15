@@ -16,8 +16,6 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
