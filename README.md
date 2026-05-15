@@ -7,11 +7,16 @@ Sou apaixonado por tecnologia.
 Atualmente estou em transição de carreira para a área de tecnologia, desenvolvendo projetos práticos e consolidando conhecimentos em programação orientada a objetos, APIs REST e desenvolvimento de Sistemas.
 Tenho experiência na criação de aplicações utilizando Java, Spring Boot, React e bancos de dados relacionais, além de aplicar boas práticas de versionamento com Git e GitHub.
 
-🎓 Estudante de Desenvolvimento de Software pelo Entra21  
+🎓 Estudante de Desenvolvimento de Software pelo Entra21 
+
 💻 Focado em desenvolvimento Backend com Java e Spring Boot, 
+
 🌐 Conhecimentos em Frontend com React, HTML, CSS e JavaScript  
+
 🗄️ Experiência com bancos de dados MySQL e PostgreSQL  
+
 🔧 Utilizo Git e GitHub para versionamento de código  
+
 📍 Gaspar, Santa Catarina - Brasil
 
 ---
