@@ -22,17 +22,17 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="JAVA" 
+    title="JAVA"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />" 
 />
 <img 
@@ -40,7 +40,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -48,7 +48,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -56,7 +56,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -64,9 +64,25 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"                   
+
 <br/>
 <br/>
 
