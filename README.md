@@ -34,7 +34,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     title="HTML" 
     width="30px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
