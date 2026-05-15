@@ -30,15 +30,15 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
-    style="padding-right: 20px;" 
+    width="50px" 
+    style="padding-right: 100px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -46,7 +46,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -54,7 +54,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -62,7 +62,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -70,7 +70,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     align="left" 
     alt="MY SQL" 
     title="MY SQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -78,7 +78,7 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
     align="left" 
     alt="SPRING BOOT" 
     title="SPRING BOOT"
-    width="30px" 
+    width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"  
 />
