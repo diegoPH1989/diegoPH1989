@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Diego Cunha
 
-**`Desenvolvedora Back End Java`**
+**`Desenvolvedor Back End Java`**
 
 Me chamo Diego Phillipe da Cunha, tenho 36 anos e sou natural de Blumenau. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi.
 Sou apaixonado por tecnologia.
