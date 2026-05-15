@@ -127,14 +127,6 @@ Tenho experiência na criação de aplicações utilizando Java, Spring Boot, Re
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoPH1989&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoPH1989&layout=compact&theme=tokyonight)
-
----
-
 ## 🌎 Onde me encontrar
 
 - 💼 LinkedIn: https://www.linkedin.com/in/diegophc/
